@@ -1,4 +1,4 @@
-const caixaPrincipal = document.querySelector(".caixa-principal");
+onst caixaPrincipal = document.querySelector(".caixa-principal");
 const caixaPerguntas = document.querySelector(".caixa-perguntas");Add commentMore actions
 const caixaAlternativas = document.querySelector(".caixa-alternativas");
 const caixaResultado = document.querySelector(".caixa-resultado");
